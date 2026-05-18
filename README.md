@@ -20,9 +20,9 @@ Protótipo Front-end de um sistema para controle de estoque, vendas, clientes e 
 Basta abrir o arquivo `index.html` no navegador.
 
 ## Integrantes do Grupo
-- Nome do Integrante 1
-- Nome do Integrante 2
-- Nome do Integrante 3
-
+-Roniery - Representante do grupo
+Regianilde Cardoso
+Josineide Correia de Alencar
+Luana Ferreira da Silva
 ## Polo
-- Seu Polo
+ - Natividade

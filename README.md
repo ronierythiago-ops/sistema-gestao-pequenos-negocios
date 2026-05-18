@@ -21,8 +21,8 @@ Basta abrir o arquivo `index.html` no navegador.
 
 ## Integrantes do Grupo
 -Roniery - Representante do grupo
-Regianilde Cardoso
-Josineide Correia de Alencar
-Luana Ferreira da Silva
+-Regianilde Cardoso
+-Josineide Correia de Alencar
+-Luana Ferreira da Silva
 ## Polo
  - Natividade
